@@ -1,6 +1,6 @@
 # Maze
 
-Create a maze using a recursize backtracking algorithm. Inspired by http://weblog.jamisbuck.org/2010/12/27/maze-generation-recursive-backtracking
+Create a maze using a recursive backtracking algorithm. Inspired by http://weblog.jamisbuck.org/2010/12/27/maze-generation-recursive-backtracking
 
 Overview of the algorithm, from that page:  
 
